@@ -11,6 +11,6 @@ public class AccountTest {
         assertEquals(30000, a.zandaka);
     }
     @Test public void transfer() {
-
+        System.out.println("hello");
     }
 }
